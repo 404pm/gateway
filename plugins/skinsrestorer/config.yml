@@ -66,7 +66,7 @@ commands:
     # For all player commands to work by default, you need to give players the permission 'skinsrestorer.player'.
     # This option allows you to force the default permission (skinsrestorer.player) to be given to all players if the value is not set explicitly.
     # A value of 'false' will disable this behaviour, and players will need to be given the permission explicitly.
-    forceDefaultPermissions: true
+    forceDefaultPermissions: false
     # Players cooldown in seconds when changing skins (set to 0 to disable).
     # SkinErrorCooldown is used when an error or invalid url occurs.
     # Can be bypassed with 'skinsrestorer.bypasscooldown'.
