@@ -1,0 +1,6 @@
+name: default
+permissions:
+- skinsrestorer.command
+- skinsrestorer.command.clear
+- skinsrestorer.command.set
+- skinsrestorer.command.update
